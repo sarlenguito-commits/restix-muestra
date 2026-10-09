@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.log
+# Notas de trabajo locales (no van al repo público)
+CLAUDE.md
